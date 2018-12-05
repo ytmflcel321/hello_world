@@ -15,3 +15,7 @@ add dev info
 
 aa
 
+
+test stash
+
+restore stash
